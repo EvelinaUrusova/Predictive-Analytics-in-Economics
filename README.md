@@ -1,4 +1,5 @@
 # Predictive-Analytics-in-Economics
+Using consumer data and search analytics to understand markets and improve forecasts
 
 ## Описание:
 
@@ -15,3 +16,7 @@
 ## Использованные технологии:
 
 python, pandas, numpy, seaborn, matplotlib, pmdarima, sktime
+
+## Ссылка на проект:
+
+[View Predictive Analytics in Economics Notebook](./Time_Series_1.ipynb)
